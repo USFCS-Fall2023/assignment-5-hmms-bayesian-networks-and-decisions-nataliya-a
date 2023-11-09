@@ -31,9 +31,9 @@
 
 #### Now we need to find the expected time for each route
 
-- Expected time for route 1 = 0.2 _ 2/3 + 0.3 _ 2/5 + 0.5 \* 2/2 = 0.133 + 0.12 + 0.5 = 0.753 hours
-- Expected time for route 2 = 0.4 _ 1.8/3 + 0.2 _ 1.8/5 + 0.4 \* 1.8/2 = 0.24 + 0.072 + 0.36 = 0.672 hours
-- Expected time for route 3 = 0.5 _ 3.1/3 + 0.4 _ 3.1/5 + 0.1 \* 3.1/2 = 0.516 + 0.248 + 0.155 = 0.919 hours
+- Expected time for route 1 = 0.2 \* 2/3 + 0.3 \* 2/5 + 0.5 \* 2/2 = 0.133 + 0.12 + 0.5 = 0.753 hours
+- Expected time for route 2 = 0.4 \* 1.8/3 + 0.2 \* 1.8/5 + 0.4 \* 1.8/2 = 0.24 + 0.072 + 0.36 = 0.672 hours
+- Expected time for route 3 = 0.5 \* 3.1/3 + 0.4 \* 3.1/5 + 0.1 \* 3.1/2 = 0.516 + 0.248 + 0.155 = 0.919 hours
 
 According to the expected time, the best route is route 2. Since it has the lowest expected time.
 
